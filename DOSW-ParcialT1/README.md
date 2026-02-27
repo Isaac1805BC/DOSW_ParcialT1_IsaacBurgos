@@ -22,6 +22,10 @@ A continuación, se presentan las capturas de pantalla que confirman el acceso a
 
 ## Desarrollo parcial primer tercio
 
+### Diagrama de contexto
+
+![alt text](image-1.png)
+
 ### Segundo Punto. Indetificar dos patrones de diseño que se puedan aplicar al caso de estudio
 Patrón 1: Composite
 
