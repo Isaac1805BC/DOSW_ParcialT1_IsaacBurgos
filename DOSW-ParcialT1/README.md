@@ -60,3 +60,27 @@ El patrón Observer permite que cuando una evaluación cambie, el estudiante sea
 1. COMO estudiante QUIERO Calcular el promedio Ponderado PARA PODER saber si puedo aplicar a becas o intercambios fuera del pais
 2. COMO Profesor QUIERO ver el listado de los estudiantes con riesgo academico PARA PODER saber si se puede lograr ayudar a mejorar al estudiante de alguna manera
 
+## Punto 5 Especifique los 2 requerimientos funcionales seleccionados en el punto anterior, siguiendo la plantilla de Análisis de requerimientos.
+
+**Nombre:** calcular dinámicamenteel promedio ponderado 
+**Descripción:** El sistema debe permitir calcular el promedio ponderado por estudiante, el promedio por grupo, el promedio por módulo, el promedio general del bootcamp.
+**Cómo se ejecutará:** A través de la página web principal de la institución, accesible desde cualquier navegador estánda.
+**Actor Principal:** Estudiantes.
+**Precondiciones:** El usuario debe ser estudiante activo de la escuela.
+
+**Datos de entrada y de salida:** 
+* **Entrada:** Nombres, apellidos.
+* **Salida:** Promedio Ponderado.
+
+**Nombre:** Ver Listado de estudiantes que estan en riesgo academico
+**Descripción:** El sistema debe permitir ver la lista de los estudiantes que estan en riesgo academico (Promedio ponderado menor de 3.0).
+**Cómo se ejecutará:** A través de la página web principal de la institución, accesible desde cualquier navegador estánda.
+**Actor Principal:** Profesores.
+**Precondiciones:** El usuario debe ser indetificado como profesor.
+
+**Datos de entrada y de salida:** 
+* **Entrada:** Nombres, apellidos.
+* **Salida:** Promedio Ponderado.
+
+
+
