@@ -19,3 +19,9 @@ A continuación, se presentan las capturas de pantalla que confirman el acceso a
 * **Lenguaje:** Java 21
 * **Gestor de Dependencias:** Maven
 * **Framework:** Spring Boot 
+
+## Desarrollo parcial primer tercio
+
+## Primer Punto. Realice el diagrama de contexto con las generalidades de su sistema
+
+![alt text](image.png)
