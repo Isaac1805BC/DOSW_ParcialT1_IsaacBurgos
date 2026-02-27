@@ -15,7 +15,7 @@ El proyecto sigue la estructura de Maven con la adición manual de la carpeta `d
 A continuación, se presentan las capturas de pantalla que confirman el acceso a las herramientas de diseño y modelado requeridas:
 
 #### Diseño de Interfaces (Figma)
-!(c:\Users\isaac\Pictures\Capturas\EvidenciaFigma.png)
+![Evidencia Figma](c:\Users\isaac\Pictures\Capturas\EvidenciaFigma.png)
 
 #### Herramienta de Modelado
 !()
