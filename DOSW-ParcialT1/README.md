@@ -23,9 +23,23 @@ A continuación, se presentan las capturas de pantalla que confirman el acceso a
 ## Desarrollo parcial primer tercio 
 
 ### Segundo Punto. Indetificar dos patrones de diseño que se puedan aplicar al caso de estudio
-**A** Nombre del patron
-**B** Tipo de patron
-**C** Justificacion de la desicion
+Patrón 1: Composite
+
+a. Nombre del patrón: Composite
+
+b. Tipo: Estructural
+
+c. Justificación:
+El sistema maneja una estructura jerarquica y debe permitir registrar la estructura del curso
+Patrón 2: Observer
+
+a. Nombre del patrón: Observer
+
+b. Tipo: De comportamiento
+
+c. Justificación:
+El sistema requiere que los promedios se actualicen automáticamente cuando se agregan o modifican evaluaciones.
+El patrón Observer permite que cuando una evaluación cambie, el estudiante sea notificado y recalcule el promedio sin generar alto acoplamiento.
 
 ### Tercer punto .Identifique 5 requerimientos del sistema y clasifíquelos en funcionales (3) y no funcionales (2). Garantice que al menos un requerimiento funcional seleccionado utilice uno o los dos patrones identificados. (Añadirlo al README.md)**
 
