@@ -33,3 +33,11 @@ A continuación, se presentan las capturas de pantalla que confirman el acceso a
 
 **Requisitos funcionales** Calculo dinamico del promedio ponderado por estudiante,grupo,modulo y promedio general del bootcamp, el sistema debe poder obtener el listado de los estudiantes que estan en riesgo academico(Promedio Ponderado menor que 3.0) , el sistema debe poder registrar la estructura academica jerárquica del curso  
 
+
+### Cuarto Punto . Del listado anterior, seleccione los 2 requerimientos funcionales más importantes del sistema y desarrolle un diagrama de casos de uso con su respectiva historia de usuario. Garantiza que al menos un requerimiento funcional seleccionado utilice un patrón identificado
+
+![alt text](image.png)
+
+1. COMO estudiante QUIERO Calcular el promedio Ponderado PARA PODER saber si puedo aplicar a becas o intercambios fuera del pais
+2. COMO Profesor QUIERO ver el listado de los estudiantes con riesgo academico PARA PODER saber si se puede lograr ayudar a mejorar al estudiante de alguna manera
+
